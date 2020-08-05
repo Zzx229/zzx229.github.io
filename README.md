@@ -1,5 +1,4 @@
-## Welcome to GitHub Pages
-
+Welcome to GitHub Pages
 
 <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css"/>
